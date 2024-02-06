@@ -3,8 +3,8 @@ Developed my first face tracking filter application for android phones using uni
 
 # Steps to add custom video
 # Step-0:
-  a) Make sure to have all the pre-requisites such as android SDK & NDK installed in unity.
-  b) Download the repository as zip file or paste the git-url in the package manager inside unity.
+  a) Make sure to have all the pre-requisites such as android SDK & NDK installed in unity. \n
+  b) Download the repository as zip file or paste the git-url in the package manager inside unity. \n
   
 # Step-1:
   a) Download the video of your choice.
