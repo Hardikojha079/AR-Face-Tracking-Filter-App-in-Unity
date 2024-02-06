@@ -10,7 +10,7 @@ Use on unity version 2022.3.10f1 and above.
 # Step-1:
   a) Download the video of your choice.<br>
   b) Paste it in the assets folder inside unity.<br>
-  c) Single click on the video and make the following changes to remove the time stamp error if it comes in the console window:<br>
+  c) Single click on the video and make the following changes to remove the time stamp error if it comes in the console&nbsp;window:<br>
       &nbsp; &nbsp;  a. Look in the inspector window after single-clicking on the video file.<br>
       &nbsp; &nbsp;  b. Inside the sRGB(color texture) tab, after pressing on the android version, change the codec to VP8 and apply the changes.<br>
   d) Click on the VideoPlayer object in the hierarchy window.<br>
