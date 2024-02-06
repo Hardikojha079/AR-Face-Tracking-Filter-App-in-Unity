@@ -1,5 +1,6 @@
 # AR-Face-Tracking-Filter-App-in-Unity
-Developed my first face tracking filter application for android phones using unity. It detects and tracks the face to display custom digital content on it.
+Developed my first face tracking filter application for android phones using unity. It detects and tracks the face to display custom digital content on it.<br>
+Use on unity version 2022.3.10f1 and above.
 
 # Steps to add custom video
 # Step-0:
