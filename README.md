@@ -2,7 +2,7 @@
 Developed my first face tracking filter application for android phones using unity. It detects and tracks the face to display custom digital content on it.<br>
 Use on unity version 2022.3.10f1 and above.
 
-# Steps to add custom video
+# Steps-to-Add-Custom-Video:
 # Step-0:
   a) Make sure to have all the pre-requisites such as android SDK & NDK installed in unity. <br>
   b) Download the repository as zip file or paste the git-url in the package manager inside unity.<br>
